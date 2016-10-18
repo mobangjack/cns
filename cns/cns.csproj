@@ -44,7 +44,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="src\Any2Any.cs" />
     <Compile Include="src\Any2Dec.cs" />
-    <Compile Include="src\Assertion.cs" />
     <Compile Include="src\Dec2Any.cs" />
     <Compile Include="src\Digits.cs" />
     <Compile Include="src\Program.cs" />
